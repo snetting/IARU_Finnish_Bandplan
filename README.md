@@ -942,10 +942,7 @@ Further information on IARU Region1 lighthouse practices can be found in the “
 
 ** **
 
-**Updated from the frequency allocation recommendation 2009 translated by Erkki Heikkinen, OH2BF and proofread by Jukka Heikinheimo, OH2BR. Updated to correspond to the situation in 2017 / Markku Toijala, OH2BQZ. \
-Translated by Steve Netting, OH3SPN 2021; Corrections welcome.**
-
- 
+**Updated from the frequency allocation recommendation 2009 translated by Erkki Heikkinen, OH2BF and proofread by Jukka Heikinheimo, OH2BR. Updated to correspond to the situation in 2017 / Markku Toijala, OH2BQZ. Translated by Steve Netting, OH3SPN 2021; Corrections welcome.** 
 
 
 ### **V / U / SHF frequency allocation recommendation**
