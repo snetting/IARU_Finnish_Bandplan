@@ -92,7 +92,7 @@ No maximum bandwidth is specified, but a maximum of 500 Hz is recommended.
    </td>
   </tr>
   <tr>
-   <td>1810-1838,
+   <td>1810-1838
    </td>
    <td>200
    </td>
@@ -161,7 +161,7 @@ In countries with an SSB band ONLY below 1840 kHz, radio amateurs can continue t
    </td>
   </tr>
   <tr>
-   <td>3560-3570,
+   <td>3560-3570
    </td>
    <td>200
    </td>
@@ -432,7 +432,7 @@ News broadcasts (Bulletins) should not be transmitted in the 10 MHz band by any 
    </td>
   </tr>
   <tr>
-   <td>14000-14060,
+   <td>14000-14060
    </td>
    <td>200
    </td>
@@ -466,7 +466,7 @@ News broadcasts (Bulletins) should not be transmitted in the 10 MHz band by any 
    </td>
   </tr>
   <tr>
-   <td>14099-14101,
+   <td>14099-14101
    </td>
    <td>
    </td>
@@ -672,7 +672,7 @@ News broadcasts (Bulletins) should not be transmitted in the 10 MHz band by any 
    </td>
   </tr>
   <tr>
-   <td>24890-24915,
+   <td>24890-24915
    </td>
    <td>200
    </td>
@@ -787,7 +787,7 @@ News broadcasts (Bulletins) should not be transmitted in the 10 MHz band by any 
    </td>
   </tr>
   <tr>
-   <td>28201-28225,
+   <td>28201-28225
    </td>
    <td>
    </td>
@@ -811,7 +811,7 @@ News broadcasts (Bulletins) should not be transmitted in the 10 MHz band by any 
    </td>
   </tr>
   <tr>
-   <td>28320-29000,
+   <td>28320-29000
    </td>
    <td>2700
    </td>
@@ -838,7 +838,7 @@ News broadcasts (Bulletins) should not be transmitted in the 10 MHz band by any 
    </td>
   </tr>
   <tr>
-   <td>29200-2930 0
+   <td>29200-29300
    </td>
    <td>6000
    </td>
