@@ -775,7 +775,7 @@ News broadcasts (Bulletins) should not be transmitted in the 10 MHz band by any 
    </td>
    <td>
    </td>
-   <td>IBP regional alternate lighthouses
+   <td>IBP regional alternate beacons
    </td>
   </tr>
   <tr>
@@ -783,7 +783,7 @@ News broadcasts (Bulletins) should not be transmitted in the 10 MHz band by any 
    </td>
    <td>
    </td>
-   <td>IBP, a global network alternating lighthouse
+   <td>IBP, a global network alternating beacon
    </td>
   </tr>
   <tr>
@@ -791,7 +791,7 @@ News broadcasts (Bulletins) should not be transmitted in the 10 MHz band by any 
    </td>
    <td>
    </td>
-   <td>IBP and continuously transmitting signals lighthouses
+   <td>IBP and continuously transmitting signals beacons
    </td>
   </tr>
   <tr>
@@ -799,7 +799,7 @@ News broadcasts (Bulletins) should not be transmitted in the 10 MHz band by any 
    </td>
    <td>2700
    </td>
-   <td>All modes - lighthouses
+   <td>All modes - beacons
    </td>
   </tr>
   <tr>
@@ -930,7 +930,7 @@ The term “automatic data station” also includes stations that store and forw
 
 IARU member unions are urged to restrict the use of unmanned stations in the HF area.
 
-The use of unmanned automatic stations is recommended only under the supervision of the operator. Exceptions are the lighthouses agreed with the IARU Region 1 lighthouse coordinator and the specially licensed experimental stations.
+The use of unmanned automatic stations is recommended only under the supervision of the operator. Exceptions are the beacons agreed with the IARU Region 1 beacon coordinator and the specially licensed experimental stations.
 
 Unmanned transmitting stations, and the associated operation, shall comply with the frequencies and bandwidths specified in the frequency recommendation.
 
@@ -938,7 +938,7 @@ The operator of an unmanned transmission station is responsible for ensuring tha
 
 **Lighthouses**
 
-Further information on IARU Region1 lighthouse practices can be found in the “IARU Region 1 HF Manager Handbook”.
+Further information on IARU Region1 beacon practices can be found in the “IARU Region 1 HF Manager Handbook”.
 
 ** **
 
@@ -2177,7 +2177,7 @@ Further information on IARU Region1 lighthouse practices can be found in the “
   <tr>
    <td>2320.800 - 2321.000 
    </td>
-   <td>Only lighthouses
+   <td>Only beacons
    </td>
   </tr>
   <tr>
