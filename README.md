@@ -936,7 +936,7 @@ Unmanned transmitting stations, and the associated operation, shall comply with 
 
 The operator of an unmanned transmission station is responsible for ensuring that it does not cause interference to other traffic. This is particularly important in the 10 MHz band, where amateur radio traffic has only secondary rights.
 
-**Lighthouses**
+**Beacons**
 
 Further information on IARU Region1 beacon practices can be found in the “IARU Region 1 HF Manager Handbook”.
 
@@ -1104,7 +1104,7 @@ Further information on IARU Region1 beacon practices can be found in the “IARU
   <tr>
    <td>70,090 - 70,100
    </td>
-   <td>Lighthouses only
+   <td>Beacons only
    </td>
   </tr>
   <tr>
@@ -1160,7 +1160,7 @@ Further information on IARU Region1 beacon practices can be found in the “IARU
   <tr>
    <td>144.400 - 144.490
    </td>
-   <td>Lighthouses
+   <td>Beacons
    </td>
   </tr>
   <tr>
@@ -1635,7 +1635,7 @@ Further information on IARU Region1 beacon practices can be found in the “IARU
   <tr>
    <td>432 400 - 432 500 
    </td>
-   <td>Lighthouses
+   <td>Beacons
    </td>
   </tr>
   <tr>
@@ -2050,7 +2050,7 @@ Further information on IARU Region1 beacon practices can be found in the “IARU
   <tr>
    <td>1296,800 
    </td>
-   <td>Lighthouses only
+   <td>Beacons only
    </td>
   </tr>
   <tr>
